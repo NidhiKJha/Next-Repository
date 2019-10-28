@@ -1,0 +1,1 @@
+This repository is to understand the basic strucure of a Next-app. I created this repo while working on the PWA app for my internship.
